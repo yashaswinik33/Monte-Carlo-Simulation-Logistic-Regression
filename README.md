@@ -39,7 +39,7 @@ Coming soon: R scripts and figures used in the simulation study will be uploaded
 ## 📧 Contact
 
 For questions or collaborations, reach out to:  
-📩 yashaswini@example.com
+📩 yashaswinik33@gmail.com
 
 ---
 

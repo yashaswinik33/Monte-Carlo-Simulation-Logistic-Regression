@@ -21,20 +21,13 @@ The simulations emphasize how covariates contribute to more reliable effect esti
 
 ---
 
-## 🧪 Reproduce the Simulation
+## 🧪 Methodology (To be added)
 
 Coming soon: R scripts and figures used in the simulation study will be uploaded here.
 
 ---
 
-## 📁 Repository Contents (To be added)
 
-- `montecarlo_logistic.R` – R code for the simulation study
-- `figures/` – Plots and graphs from simulation outputs
-- `manuscript_preprint.pdf` – Preprint version of the article
-- `LICENSE` – Terms of use
-
----
 
 ## 📧 Contact
 

@@ -10,7 +10,7 @@
 
 ## 📚 Abstract
 
-Case-control studies are a widely used observational design for investigating associations between exposures and outcomes. Logistic regression is commonly applied to model binary outcomes while adjusting for covariates, confounders, and effect modifiers. However, when exposure distributions are skewed—i.e., unevenly distributed between cases and controls—statistical inference can be compromised.
+Case-control studies are a widely used observational design for investigating associations between exposures and outcomes. Logistic regression is commonly applied to model binary outcomes while adjusting for covariates, confounders, and effect modifiers. However, when exposure distributions are skewed i.e., unevenly distributed between cases and controls—statistical inference can be compromised.
 
 This study uses a series of **Monte Carlo simulations** to examine the impact of skewed exposure distributions on the performance of logistic regression. Specifically, it evaluates:
 - 🔍 **Power of the Wald test**
